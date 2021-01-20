@@ -4,7 +4,7 @@ from PyQt5.QtCore import *
 from PyQt5.QtGui import *
 from PyQt5.QtWebEngineWidgets import QWebEngineView
 
-# 注释修改一次
+# 注释修改二次
 # 创建主窗口
 class MainWindow(QMainWindow):
     def __init__(self, *args, **kwargs):
